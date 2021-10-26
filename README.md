@@ -1,7 +1,7 @@
 # Team_Profile_Generator
 
  ## Description
-  It generates a team profile based on the user's answers to a few prompts
+  A command line application to dynamically create a webpage of key employee info (names, roles, contact info).
 
   ### Built With 
 - HTML
@@ -10,3 +10,10 @@
 - Node
 - Jest
 - Inquirer
+
+[See Video Demo of Page Generation](https://drive.google.com/file/d/1ZkfNG7yu6PowyAYZfy-qBwLxHyUqHs-H/view)
+
+![alt text](res/1.png)
+
+
+![alt text](res/2.png)
