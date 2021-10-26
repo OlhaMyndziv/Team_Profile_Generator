@@ -11,7 +11,7 @@
 - Jest
 - Inquirer
 
-[See Video Demo of Page Generation](https://drive.google.com/file/d/1ZkfNG7yu6PowyAYZfy-qBwLxHyUqHs-H/view)
+[See Video Demo of Page Generation](https://drive.google.com/file/d/1fqb7WKicEsDXH4gF2hQH6MvcL215sl43/view)
 
 ![alt text](res/1.png)
 
